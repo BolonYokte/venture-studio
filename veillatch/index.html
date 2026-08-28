@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta name="robots" content="noindex,nofollow">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>VeilLatch — Use AI without sending identities</title>
+  <link rel="stylesheet" href="./site/styles.css">
+  <style>
+    .receipt-fields{display:grid;grid-template-columns:1fr 1fr;gap:12px}.workspace .review{display:flex;align-items:center;gap:8px}.workspace .review input{width:auto}.workspace pre{margin:0;padding:16px;overflow:auto;background:#15201c;color:#d9e7df;font:10px/1.6 monospace}@media(max-width:550px){.receipt-fields{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <nav class="shell"><a class="logo" href="#">VEIL/LATCH</a><span>LOCAL PROCESSING · NO ACCOUNT</span></nav>
+  <main>
+    <section class="hero shell">
+      <div><p class="label">A PRIVACY BUFFER BEFORE CLOUD AI</p><h1>Take identities <em>out.</em><br>Put the answer <em>back.</em></h1><p>VeilLatch pseudonymizes sensitive identifiers locally, lets you work with the safe copy, and restores the final answer without sending the identity map anywhere.</p><a href="#tool">Try it locally ↓</a></div>
+      <div class="diagram"><div class="raw"><span>PRIVATE INPUT</span><p>Ana · 612 345 678<br>ana@example.com<br>ES91 2100 0418...</p></div><i>→</i><div class="safe"><span>SAFE COPY</span><p>[CUSTOM_1]<br>[PHONE_1]<br>[IBAN_1]</p></div><b>IDENTITY MAP<br>STAYS HERE</b></div>
+    </section>
+    <section class="promise"><div class="shell"><h2>Cloud intelligence.<br>Local identity.</h2><p>No upload. No account. No claim that regex equals anonymization. You see exactly what was removed before using the result elsewhere.</p></div></section>
+    <section class="tool shell" id="tool">
+      <div class="intro"><p class="label">FUNCTIONAL LOCAL DEMO</p><h2>Create a safe working copy.</h2><p>Add names or client terms manually. Common email, phone, Spanish DNI/NIE and IBAN formats are detected automatically.</p></div>
+      <div class="workspace">
+        <label>ORIGINAL TEXT<textarea id="source" rows="7" placeholder="Paste sensitive working text..."></textarea></label>
+        <label>TERMS TO HIDE<input id="terms" placeholder="Ana Pérez, Client ACME"></label>
+        <button id="redact">Create safe copy</button>
+        <label>SAFE COPY<textarea id="safe" rows="7" readonly></textarea></label>
+        <div id="summary"></div>
+        <label>AI RESPONSE WITH TOKENS<textarea id="response" rows="5" placeholder="Paste the response that still contains [CUSTOM_1]..."></textarea></label>
+        <button id="restore">Restore locally</button>
+        <label>RESTORED RESULT<textarea id="restored" rows="5" readonly></textarea></label>
+        <div class="receipt-fields"><label>AI TOOL<input id="tool-name" value="Illustrative cloud assistant"></label><label>PURPOSE<input id="purpose" value="Draft and structure working text"></label></div>
+        <label class="review"><input id="human-reviewed" type="checkbox"> Human review completed</label>
+        <button id="receipt">Generate AI-use receipt</button>
+        <pre id="receipt-output" hidden></pre>
+      </div>
+    </section>
+    <section class="steps"><div class="shell"><article><span>01</span><h3>Inspect</h3><p>Detect supported identifiers and user-defined sensitive terms.</p></article><article><span>02</span><h3>Replace</h3><p>Create stable tokens so relationships remain understandable.</p></article><article><span>03</span><h3>Work</h3><p>Use the safe copy with the tool or model allowed by your policy.</p></article><article><span>04</span><h3>Receipt</h3><p>Restore locally and record tool, purpose, hashes, token integrity and human review.</p></article></div></section>
+    <section class="commercial shell"><div><p class="label">DESKTOP PILOT</p><h2>A small boundary that changes daily AI use.</h2></div><div class="price"><span>TEAM PILOT</span><strong>€690</strong><p>Local policy pack, custom detection terms and AI-use receipts for one department.</p><b>Planned desktop license: €19/user/month</b></div></section>
+  </main>
+  <footer class="shell"><strong>VEIL/LATCH</strong><span>Beta demo. Pseudonymization is not guaranteed anonymization.</span><span>Mapping held in volatile browser memory.</span></footer>
+  <script type="module" src="./site/app.js"></script>
+</body>
+</html>

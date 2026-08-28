@@ -1,0 +1,10 @@
+.brief-score { display: flex; justify-content: space-between; align-items: center; margin-top: 16px; padding: 12px; border: 1px solid #3a3e38; }
+.brief-score span { color: #92998f; font: 9px monospace; }
+.brief-score b { color: var(--yellow); font: 800 18px monospace; }
+.confirm-box { margin-top: 16px; padding: 15px; border: 1px solid #4d514b; }
+.confirm-box p { color: #c5cbc2; font-size: 12px; line-height: 1.5; }
+.confirm-box button { width: 100%; background: var(--yellow); border: 0; }
+.handshake-receipt { display: grid; gap: 7px; margin-top: 16px; padding: 15px; border: 1px solid #6abf94; background: #17281e; }
+.handshake-receipt span { color: #8ee5b6; font: 800 9px monospace; }
+.handshake-receipt strong { font-size: 18px; }
+.handshake-receipt p, .handshake-receipt code { margin: 0; color: #aeb8b0; font: 9px/1.5 monospace; word-break: break-all; }
