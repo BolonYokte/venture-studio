@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-01T12:00:00.000Z",
+  "policy": "Drafts only. The client must approve recipients, content and channel before any contact. Stop on reply or opt-out.",
+  "totals": {
+    "supplied": 6,
+    "reviewable": 3,
+    "excluded": 3,
+    "openValueByCurrency": {
+      "USD": 17200
+    }
+  },
+  "queue": [
+    {
+      "quoteId": "Q-1042",
+      "customerName": "Jordan Lee",
+      "customerEmail": "jordan@example.test",
+      "service": "Heat pump replacement",
+      "amount": 8400,
+      "currency": "USD",
+      "quoteSentAt": "2026-08-24T00:00:00.000Z",
+      "lastContactAt": null,
+      "status": "viewed",
+      "optedOut": false,
+      "ageDays": 8,
+      "cohort": "decision_window",
+      "priorityScore": 44,
+      "draftMessage": "Hi Jordan, just checking that you received our Heat pump replacement quote sent on 2026-08-24. If you need a change or have a question, reply here and we will review it.",
+      "approvalState": "client_review_required"
+    },
+    {
+      "quoteId": "Q-1044",
+      "customerName": "Alex Rivera",
+      "customerEmail": "alex@example.test",
+      "service": "Roof repair",
+      "amount": 3200,
+      "currency": "USD",
+      "quoteSentAt": "2026-05-15T00:00:00.000Z",
+      "lastContactAt": null,
+      "status": "opened",
+      "optedOut": false,
+      "ageDays": 109,
+      "cohort": "reactivation",
+      "priorityScore": 26,
+      "draftMessage": "Hi Alex, you previously asked us about Roof repair. If the project is still active, we can confirm whether the scope and pricing need an update. Reply \"review\" and we will take another look.",
+      "approvalState": "client_review_required"
+    },
+    {
+      "quoteId": "Q-1043",
+      "customerName": "Casey Morgan",
+      "customerEmail": "casey@example.test",
+      "service": "Window installation",
+      "amount": 5600,
+      "currency": "USD",
+      "quoteSentAt": "2026-07-28T00:00:00.000Z",
+      "lastContactAt": "2026-07-30T00:00:00.000Z",
+      "status": "sent",
+      "optedOut": false,
+      "ageDays": 35,
+      "cohort": "quiet_quote",
+      "priorityScore": 23,
+      "draftMessage": "Hi Casey, we are reviewing open quotes and wanted to check the Window installation project. Is it still active, paused, or no longer needed? A one-line reply is enough.",
+      "approvalState": "client_review_required"
+    }
+  ],
+  "excluded": [
+    {
+      "quoteId": "Q-1045",
+      "reason": "follow_up_not_due"
+    },
+    {
+      "quoteId": "Q-1046",
+      "reason": "closed_status:declined"
+    },
+    {
+      "quoteId": "Q-1047",
+      "reason": "recipient_opted_out"
+    }
+  ]
+}

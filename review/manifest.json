@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:26:43.741Z",
+  "generatedAt": "2026-09-01T20:33:53.618Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -42,11 +42,43 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-115f4c43be6b8223",
+      "company": "Aire Texas Residential Services, Inc",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/221298051",
+      "relativeUrl": "osm-115f4c43be6b8223/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-13b3cb02409b3ca9",
+      "company": "EZ Service",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10208851397",
+      "relativeUrl": "osm-13b3cb02409b3ca9/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1ddcd931b497b227",
+      "company": "Auto Locksmith Philadelphia",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10312653340",
+      "relativeUrl": "osm-1ddcd931b497b227/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-1f6c33eea05584d7",
       "company": "S+H Construction",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/8275232424",
       "relativeUrl": "osm-1f6c33eea05584d7/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-21d89bda415ecab0",
+      "company": "Friar's Plumbing Heating and AC Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13227382496",
+      "relativeUrl": "osm-21d89bda415ecab0/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -58,11 +90,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-23b2c719a5399fc8",
+      "company": "Anytime Plumbing 365, Drain Cleaning & Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13588936567",
+      "relativeUrl": "osm-23b2c719a5399fc8/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-2afe521e1a074593",
       "company": "Seattle Plumbing Pros",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/228915473",
       "relativeUrl": "osm-2afe521e1a074593/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2c7ae229263c1072",
+      "company": "London Pro Abseiling ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/8879868208",
+      "relativeUrl": "osm-2c7ae229263c1072/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -74,11 +122,43 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-370a62c2d6940764",
+      "company": "Five Star Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13778449625",
+      "relativeUrl": "osm-370a62c2d6940764/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-399f3a2fc6c90ab5",
+      "company": "Flo-Well Drainage and Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/6385005950",
+      "relativeUrl": "osm-399f3a2fc6c90ab5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-3e45004f412b13e3",
+      "company": "Benjamin Franklin Plumbing & Drain Services of Duncanville",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12069806828",
+      "relativeUrl": "osm-3e45004f412b13e3/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-410a7191e8894ea4",
       "company": "Pioneer Plumbing & Sewer",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/221921424",
       "relativeUrl": "osm-410a7191e8894ea4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-4774969455201b5d",
+      "company": "Apple Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13070048881",
+      "relativeUrl": "osm-4774969455201b5d/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -90,11 +170,91 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-512685b4ea755efc",
+      "company": "CoolFlo Air Conditioning",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13748044498",
+      "relativeUrl": "osm-512685b4ea755efc/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-52558bdd1a8e1eb6",
+      "company": "Bone Dry Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13644579845",
+      "relativeUrl": "osm-52558bdd1a8e1eb6/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-5568436e74caa018",
       "company": "Chaves do Areeiro",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/4023566445",
       "relativeUrl": "osm-5568436e74caa018/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-56e35297ce961007",
+      "company": "Electric Works London",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11602265913",
+      "relativeUrl": "osm-56e35297ce961007/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-572015914a1338b4",
+      "company": "Dean's Plumbing, Drain Cleaning, Sewer & Water Heater Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13050170186",
+      "relativeUrl": "osm-572015914a1338b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5b297608f2aab110",
+      "company": "Burke Plumbing & Heating",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12362872869",
+      "relativeUrl": "osm-5b297608f2aab110/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5cb34fff0ea468b2",
+      "company": "Bath Fitter",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1002514113",
+      "relativeUrl": "osm-5cb34fff0ea468b2/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5f0271cf1a1695a3",
+      "company": "Affordable Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9295880274",
+      "relativeUrl": "osm-5f0271cf1a1695a3/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-628986e972d79c86",
+      "company": "All Flooring Install",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13700216351",
+      "relativeUrl": "osm-628986e972d79c86/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-65b36d557a49dc1b",
+      "company": "Building Efficiency, Inc.",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4017234510",
+      "relativeUrl": "osm-65b36d557a49dc1b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-6ed8e0266074d600",
+      "company": "Court Security Locksmiths",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/275102857",
+      "relativeUrl": "osm-6ed8e0266074d600/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -122,11 +282,43 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-877ec88f24847f1b",
+      "company": "Hilton abbey Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10253807630",
+      "relativeUrl": "osm-877ec88f24847f1b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-88dc66aa7d9f8ac3",
       "company": "O'Neill Plumbing",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/2396741242",
       "relativeUrl": "osm-88dc66aa7d9f8ac3/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-8d2b58f1a9e05eda",
+      "company": "Hardwood Revival",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7035807626",
+      "relativeUrl": "osm-8d2b58f1a9e05eda/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-8e3b60f0dc2a6f6b",
+      "company": "AirMaster Heating & Cooling Specialists",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11766280247",
+      "relativeUrl": "osm-8e3b60f0dc2a6f6b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-8eda381ca24cdddc",
+      "company": "Freestyle Flooring",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/8951108539",
+      "relativeUrl": "osm-8eda381ca24cdddc/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -138,11 +330,43 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-90d90641bf73a494",
+      "company": "Electric Bill's Inc.",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5864927599",
+      "relativeUrl": "osm-90d90641bf73a494/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-986746d476a54f58",
+      "company": "Elmbridge Heating & Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12772005204",
+      "relativeUrl": "osm-986746d476a54f58/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-9b8e536732b31603",
+      "company": "Ellis Air Conditioning & Heating",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13871309029",
+      "relativeUrl": "osm-9b8e536732b31603/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-9d5516f019d4f4a5",
       "company": "Roofing Formula LLC",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/9157979875",
       "relativeUrl": "osm-9d5516f019d4f4a5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-a757afbc405a5634",
+      "company": "Ameen General Contractor Inc",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9774290533",
+      "relativeUrl": "osm-a757afbc405a5634/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -154,11 +378,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-aeb8d274f4290b29",
+      "company": "All American Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12734562801",
+      "relativeUrl": "osm-aeb8d274f4290b29/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-aed1e8df6a8ae8b4",
+      "company": "GT Joinery Woodworking Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1064052582",
+      "relativeUrl": "osm-aed1e8df6a8ae8b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-aef3a8fc0641ed7d",
       "company": "De Sleutelkluis",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/332661079",
       "relativeUrl": "osm-aef3a8fc0641ed7d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-b1604ed5c6aaf970",
+      "company": "EC Maintenance",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7418270231",
+      "relativeUrl": "osm-b1604ed5c6aaf970/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -170,11 +418,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-bd199da85a33ee05",
+      "company": "Dwello Home Services",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/14018605863",
+      "relativeUrl": "osm-bd199da85a33ee05/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-bfbe98601d5ff9af",
       "company": "Broadway Locksmith",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/206047317",
       "relativeUrl": "osm-bfbe98601d5ff9af/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-c0cfeb7384dad1a9",
+      "company": "Bridgewater Glass",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1017428767",
+      "relativeUrl": "osm-c0cfeb7384dad1a9/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -210,6 +474,38 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-d48b5a67c3801ead",
+      "company": "Artisans Carpentry",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/261122159",
+      "relativeUrl": "osm-d48b5a67c3801ead/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-d520d300fd86b96d",
+      "company": "Dawes Glass",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/14122967133",
+      "relativeUrl": "osm-d520d300fd86b96d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-d7628add582cf7ce",
+      "company": "DalTex Glass & Aluminum",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13927020377",
+      "relativeUrl": "osm-d7628add582cf7ce/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-dad15928db9f7ea4",
+      "company": "Anytime Locksmith",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/3101735498",
+      "relativeUrl": "osm-dad15928db9f7ea4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-dfcb49f07a3d52ff",
       "company": "Société Santallier",
       "venture": "visual_quote",
@@ -218,11 +514,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e9a399cccac7e5d5",
+      "company": "Economy Drain Cleaning & Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11508427942",
+      "relativeUrl": "osm-e9a399cccac7e5d5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-f3e89788acb4f842",
       "company": "Extreme Handyman Service",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13843931177",
       "relativeUrl": "osm-f3e89788acb4f842/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f9acf51d1af619bc",
+      "company": "Conditioned Air Services",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4149671407",
+      "relativeUrl": "osm-f9acf51d1af619bc/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f9ccc9480bc72672",
+      "company": "Barco Mirror & Glass, Inc",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/424505534",
+      "relativeUrl": "osm-f9ccc9480bc72672/",
       "status": "illustrative_asset_ready"
     },
     {
