@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "product": "Inquiry Path Preflight",
+  "businessName": "PCB Couverture Bordeaux",
+  "sourceUrl": "https://www.procouvreurbordeaux.com/",
+  "finalUrl": "https://www.procouvreurbordeaux.com/",
+  "observedAt": "2026-08-31T12:44:04.809Z",
+  "sourceHash": "02c0ea4d724428b1ef2e4c18cb7f958e43de9fedcef0744d2087f146f24b64c2",
+  "score": 100,
+  "state": "clear_path",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Entry point responds",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile path declared",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "secure",
+      "label": "Secure handoff",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "action",
+      "label": "Direct inquiry action",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "redundancy",
+      "label": "Fallback route available",
+      "passed": true,
+      "weight": 10,
+      "status": "pass"
+    }
+  ],
+  "routes": {
+    "form": true,
+    "phone": true,
+    "whatsapp": false,
+    "email": false,
+    "booking": false,
+    "contactPage": true
+  },
+  "routeCount": 3,
+  "nextStep": "Preserve the current path and verify it after material website or routing changes.",
+  "disclaimer": "This preflight records bounded public observations. It does not submit forms, test private inboxes, measure conversion, or claim lost revenue."
+}

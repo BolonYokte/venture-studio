@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "product": "Inquiry Path Preflight",
+  "businessName": "Reformas Huelva",
+  "sourceUrl": "https://reformashuelva.es/contacto/",
+  "finalUrl": "https://reformashuelva.es/contacto/",
+  "observedAt": "2026-08-31T12:44:04.645Z",
+  "sourceHash": "9eb8ff9f593782930f8ef03f4577333fe89466b962850cbf8a92ed1adbe4514b",
+  "score": 100,
+  "state": "clear_path",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Entry point responds",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile path declared",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "secure",
+      "label": "Secure handoff",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "action",
+      "label": "Direct inquiry action",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "redundancy",
+      "label": "Fallback route available",
+      "passed": true,
+      "weight": 10,
+      "status": "pass"
+    }
+  ],
+  "routes": {
+    "form": true,
+    "phone": true,
+    "whatsapp": false,
+    "email": true,
+    "booking": false,
+    "contactPage": true
+  },
+  "routeCount": 4,
+  "nextStep": "Preserve the current path and verify it after material website or routing changes.",
+  "disclaimer": "This preflight records bounded public observations. It does not submit forms, test private inboxes, measure conversion, or claim lost revenue."
+}

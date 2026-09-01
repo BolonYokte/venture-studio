@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-31T09:45:24.564Z",
+  "target": "https://webhook.example.invalid/authorized-demo",
+  "verdict": "ready_for_review",
+  "score": 100,
+  "attempts": [
+    {
+      "number": 1,
+      "ok": true,
+      "status": 200,
+      "durationMs": 135,
+      "bodyHash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "contentType": "application/json",
+      "correlationHeader": {
+        "name": "x-request-id",
+        "value": "demo-1"
+      },
+      "replayHeader": null
+    },
+    {
+      "number": 2,
+      "ok": true,
+      "status": 200,
+      "durationMs": 150,
+      "bodyHash": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "contentType": "application/json",
+      "correlationHeader": {
+        "name": "x-request-id",
+        "value": "demo-2"
+      },
+      "replayHeader": {
+        "name": "x-idempotency-status",
+        "value": "replayed"
+      }
+    }
+  ],
+  "checks": [
+    {
+      "id": "https",
+      "label": "HTTPS target",
+      "status": "pass",
+      "detail": "The probe required an HTTPS destination and blocked redirects.",
+      "weight": 15
+    },
+    {
+      "id": "initial_delivery",
+      "label": "Initial delivery",
+      "status": "pass",
+      "detail": "The endpoint returned HTTP 200.",
+      "weight": 25
+    },
+    {
+      "id": "replay_delivery",
+      "label": "Replay delivery",
+      "status": "pass",
+      "detail": "The repeated request returned HTTP 200.",
+      "weight": 20
+    },
+    {
+      "id": "status_stability",
+      "label": "Stable replay status",
+      "status": "pass",
+      "detail": "Both attempts returned the same status.",
+      "weight": 10
+    },
+    {
+      "id": "body_stability",
+      "label": "Stable response fingerprint",
+      "status": "pass",
+      "detail": "Response body fingerprints matched.",
+      "weight": 5
+    },
+    {
+      "id": "replay_ack",
+      "label": "Explicit replay signal",
+      "status": "pass",
+      "detail": "x-idempotency-status: replayed",
+      "weight": 10
+    },
+    {
+      "id": "correlation",
+      "label": "Request correlation",
+      "status": "pass",
+      "detail": "x-request-id: demo-1",
+      "weight": 5
+    },
+    {
+      "id": "latency",
+      "label": "Bounded response time",
+      "status": "pass",
+      "detail": "Slowest observed response: 150 ms.",
+      "weight": 10
+    }
+  ],
+  "limitations": [
+    "This is a bounded synthetic observation, not a certification of production idempotency.",
+    "It does not simulate provider outages, delayed retries, concurrency or downstream side effects.",
+    "Run only against an endpoint you own or are explicitly authorized to test."
+  ]
+}

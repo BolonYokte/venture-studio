@@ -1,0 +1,32 @@
+[
+  {
+    "slug": "reformas-presupuestos-gratis",
+    "businessName": "Reformas Presupuestos Gratis",
+    "sourceUrl": "https://www.reformaspresupuestosgratis.com/",
+    "status": "diagnosed",
+    "score": 85,
+    "verdict": "strong_foundation",
+    "inquiryPathScore": 100,
+    "inquiryPathState": "clear_path"
+  },
+  {
+    "slug": "reformas-huelva",
+    "businessName": "Reformas Huelva",
+    "sourceUrl": "https://reformashuelva.es/contacto/",
+    "status": "diagnosed",
+    "score": 95,
+    "verdict": "strong_foundation",
+    "inquiryPathScore": 100,
+    "inquiryPathState": "clear_path"
+  },
+  {
+    "slug": "pcb-couverture-bordeaux",
+    "businessName": "PCB Couverture Bordeaux",
+    "sourceUrl": "https://www.procouvreurbordeaux.com/",
+    "status": "diagnosed",
+    "score": 95,
+    "verdict": "strong_foundation",
+    "inquiryPathScore": 100,
+    "inquiryPathState": "clear_path"
+  }
+]

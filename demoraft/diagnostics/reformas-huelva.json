@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "businessName": "Reformas Huelva",
+  "sourceUrl": "https://reformashuelva.es/contacto/",
+  "finalUrl": "https://reformashuelva.es/contacto/",
+  "observedAt": "2026-08-31T12:44:04.645Z",
+  "sourceHash": "9eb8ff9f593782930f8ef03f4577333fe89466b962850cbf8a92ed1adbe4514b",
+  "score": 95,
+  "verdict": "strong_foundation",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Public page reachable",
+      "status": "pass",
+      "detail": "Observed HTTP 200.",
+      "weight": 20
+    },
+    {
+      "id": "https",
+      "label": "HTTPS delivery",
+      "status": "pass",
+      "detail": "Final page uses HTTPS.",
+      "weight": 10
+    },
+    {
+      "id": "viewport",
+      "label": "Mobile viewport",
+      "status": "pass",
+      "detail": "A viewport declaration is present.",
+      "weight": 15
+    },
+    {
+      "id": "title",
+      "label": "Search title",
+      "status": "pass",
+      "detail": "Observed title length: 47.",
+      "weight": 10
+    },
+    {
+      "id": "description",
+      "label": "Search description",
+      "status": "pass",
+      "detail": "Observed description length: 140.",
+      "weight": 10
+    },
+    {
+      "id": "heading",
+      "label": "Single primary heading",
+      "status": "pass",
+      "detail": "Observed H1 count: 1.",
+      "weight": 10
+    },
+    {
+      "id": "contact_route",
+      "label": "Direct contact route",
+      "status": "pass",
+      "detail": "Form: yes; phone: yes; WhatsApp: no; contact link: yes.",
+      "weight": 15
+    },
+    {
+      "id": "local_schema",
+      "label": "Local business schema",
+      "status": "attention",
+      "detail": "No LocalBusiness-style structured data was observed.",
+      "weight": 5
+    },
+    {
+      "id": "response_time",
+      "label": "Observed response time",
+      "status": "pass",
+      "detail": "Single public fetch completed in 105 ms.",
+      "weight": 5
+    }
+  ],
+  "attention": [
+    {
+      "label": "Local business schema",
+      "detail": "No LocalBusiness-style structured data was observed."
+    }
+  ],
+  "page": {
+    "title": "Contacto - Presupuesto gratuito para tu reforma",
+    "description": "Presupuesto totalmente gratuito y sin compromiso y resuelve tus dudas. Atención personalizada, respuesta rápida y asesoramiento profesional.",
+    "h1Count": 1,
+    "contactRoutes": {
+      "form": true,
+      "phone": true,
+      "whatsapp": false,
+      "email": true,
+      "booking": false,
+      "contactPage": true
+    }
+  },
+  "disclaimer": "This diagnostic records bounded public observations. It does not measure traffic, conversion rate, revenue or customer satisfaction."
+}

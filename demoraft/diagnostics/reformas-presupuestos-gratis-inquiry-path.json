@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "product": "Inquiry Path Preflight",
+  "businessName": "Reformas Presupuestos Gratis",
+  "sourceUrl": "https://www.reformaspresupuestosgratis.com/",
+  "finalUrl": "https://www.reformaspresupuestosgratis.com/",
+  "observedAt": "2026-08-31T12:44:04.534Z",
+  "sourceHash": "5723765f5157cb6b520933c2fb576a5250414f0ef32a5da7798b0ffe09bc0616",
+  "score": 100,
+  "state": "clear_path",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Entry point responds",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "mobile",
+      "label": "Mobile path declared",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "secure",
+      "label": "Secure handoff",
+      "passed": true,
+      "weight": 20,
+      "status": "pass"
+    },
+    {
+      "id": "action",
+      "label": "Direct inquiry action",
+      "passed": true,
+      "weight": 25,
+      "status": "pass"
+    },
+    {
+      "id": "redundancy",
+      "label": "Fallback route available",
+      "passed": true,
+      "weight": 10,
+      "status": "pass"
+    }
+  ],
+  "routes": {
+    "form": false,
+    "phone": true,
+    "whatsapp": true,
+    "email": false,
+    "booking": true,
+    "contactPage": true
+  },
+  "routeCount": 4,
+  "nextStep": "Preserve the current path and verify it after material website or routing changes.",
+  "disclaimer": "This preflight records bounded public observations. It does not submit forms, test private inboxes, measure conversion, or claim lost revenue."
+}

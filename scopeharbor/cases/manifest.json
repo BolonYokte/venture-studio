@@ -1,0 +1,47 @@
+[
+  {
+    "slug": "servclimat-scope-passport",
+    "company": "Servclimat",
+    "sourceUrl": "https://www.servclimat.es/solicitar-presupuesto",
+    "locale": "es",
+    "caseType": "private_proposal",
+    "fileName": "servclimat-scope-passport.html",
+    "status": "private_draft"
+  },
+  {
+    "slug": "clima-exacto-scope-passport",
+    "company": "Clima Exacto",
+    "sourceUrl": "https://climaexacto.com/",
+    "locale": "es",
+    "caseType": "private_proposal",
+    "fileName": "clima-exacto-scope-passport.html",
+    "status": "private_draft"
+  },
+  {
+    "slug": "aire-instalacion-madrid-scope-passport",
+    "company": "Aire Acondicionado Instalación Madrid",
+    "sourceUrl": "https://www.aireacondicionadoinstalacion.com/contacto/",
+    "locale": "es",
+    "caseType": "private_proposal",
+    "fileName": "aire-instalacion-madrid-scope-passport.html",
+    "status": "private_draft"
+  },
+  {
+    "slug": "etec-air-public-flow-case",
+    "company": "E.T.E.C. Air",
+    "sourceUrl": "https://www.etecair.com/virtual-quote",
+    "locale": "en",
+    "caseType": "public_flow_case",
+    "fileName": "etec-air-public-flow-case.html",
+    "status": "private_draft"
+  },
+  {
+    "slug": "dokro-public-flow-case",
+    "company": "DOKRO Klimatechnik",
+    "sourceUrl": "https://www.dokroo.shop/pages/angebote",
+    "locale": "de",
+    "caseType": "public_flow_case",
+    "fileName": "dokro-public-flow-case.html",
+    "status": "private_draft"
+  }
+]

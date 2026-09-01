@@ -1,0 +1,95 @@
+{
+  "schemaVersion": 1,
+  "businessName": "PCB Couverture Bordeaux",
+  "sourceUrl": "https://www.procouvreurbordeaux.com/",
+  "finalUrl": "https://www.procouvreurbordeaux.com/",
+  "observedAt": "2026-08-31T12:44:04.809Z",
+  "sourceHash": "02c0ea4d724428b1ef2e4c18cb7f958e43de9fedcef0744d2087f146f24b64c2",
+  "score": 95,
+  "verdict": "strong_foundation",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Public page reachable",
+      "status": "pass",
+      "detail": "Observed HTTP 200.",
+      "weight": 20
+    },
+    {
+      "id": "https",
+      "label": "HTTPS delivery",
+      "status": "pass",
+      "detail": "Final page uses HTTPS.",
+      "weight": 10
+    },
+    {
+      "id": "viewport",
+      "label": "Mobile viewport",
+      "status": "pass",
+      "detail": "A viewport declaration is present.",
+      "weight": 15
+    },
+    {
+      "id": "title",
+      "label": "Search title",
+      "status": "pass",
+      "detail": "Observed title length: 63.",
+      "weight": 10
+    },
+    {
+      "id": "description",
+      "label": "Search description",
+      "status": "pass",
+      "detail": "Observed description length: 146.",
+      "weight": 10
+    },
+    {
+      "id": "heading",
+      "label": "Single primary heading",
+      "status": "pass",
+      "detail": "Observed H1 count: 1.",
+      "weight": 10
+    },
+    {
+      "id": "contact_route",
+      "label": "Direct contact route",
+      "status": "pass",
+      "detail": "Form: yes; phone: yes; WhatsApp: no; contact link: yes.",
+      "weight": 15
+    },
+    {
+      "id": "local_schema",
+      "label": "Local business schema",
+      "status": "attention",
+      "detail": "No LocalBusiness-style structured data was observed.",
+      "weight": 5
+    },
+    {
+      "id": "response_time",
+      "label": "Observed response time",
+      "status": "pass",
+      "detail": "Single public fetch completed in 160 ms.",
+      "weight": 5
+    }
+  ],
+  "attention": [
+    {
+      "label": "Local business schema",
+      "detail": "No LocalBusiness-style structured data was observed."
+    }
+  ],
+  "page": {
+    "title": "Couvreur Bordeaux | PCB Couverture - Rénovation Toiture Gironde",
+    "description": "Couvreur à Bordeaux depuis 11 ans. Rénovation, réparation, pose neuve, nettoyage, traitement charpente, Velux, ravalement. Devis ☎ 05 36 28 00 45.",
+    "h1Count": 1,
+    "contactRoutes": {
+      "form": true,
+      "phone": true,
+      "whatsapp": false,
+      "email": false,
+      "booking": false,
+      "contactPage": true
+    }
+  },
+  "disclaimer": "This diagnostic records bounded public observations. It does not measure traffic, conversion rate, revenue or customer satisfaction."
+}

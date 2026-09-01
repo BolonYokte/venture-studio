@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2026-09-01T10:03:11.762Z",
+  "assets": [
+    {
+      "id": "ackweave-infinode",
+      "company": "Infinode AI",
+      "venture": "relay_proof",
+      "sourceUrl": "https://www.infinodeai.com/",
+      "relativeUrl": "ackweave-infinode/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "ackweave-nodespark",
+      "company": "NodeSpark",
+      "venture": "relay_proof",
+      "sourceUrl": "https://nodespark.ai/",
+      "relativeUrl": "ackweave-nodespark/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "ackweave-ojc-labs",
+      "company": "OJC Labs",
+      "venture": "relay_proof",
+      "sourceUrl": "https://ojclabs.com/systems/automation-data",
+      "relativeUrl": "ackweave-ojc-labs/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "ackweave-streamline-agency",
+      "company": "Streamline Agency",
+      "venture": "relay_proof",
+      "sourceUrl": "https://streamlineagency.ai/",
+      "relativeUrl": "ackweave-streamline-agency/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2397dc4668d08fe2",
+      "company": "Guy Rouez",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/1797961797",
+      "relativeUrl": "osm-2397dc4668d08fe2/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-3541ee6398f3f11b",
+      "company": "ProSeal Contracts Pte Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/6527706990",
+      "relativeUrl": "osm-3541ee6398f3f11b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5568436e74caa018",
+      "company": "Chaves do Areeiro",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4023566445",
+      "relativeUrl": "osm-5568436e74caa018/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-90a8b0c7ca2750dd",
+      "company": "Omega Locksmith",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7191137197",
+      "relativeUrl": "osm-90a8b0c7ca2750dd/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-aef3a8fc0641ed7d",
+      "company": "De Sleutelkluis",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/332661079",
+      "relativeUrl": "osm-aef3a8fc0641ed7d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-cc05a87d63768c61",
+      "company": "Carvalho Batista",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4023546387",
+      "relativeUrl": "osm-cc05a87d63768c61/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-cd755024d272a8fa",
+      "company": "Farbe & Design",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/266629317",
+      "relativeUrl": "osm-cd755024d272a8fa/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-dfcb49f07a3d52ff",
+      "company": "Société Santallier",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2077747672",
+      "relativeUrl": "osm-dfcb49f07a3d52ff/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "relayproof-aether",
+      "company": "AETHER",
+      "venture": "relay_proof",
+      "sourceUrl": "https://www.agenciadeiaenmadrid.com/",
+      "relativeUrl": "relayproof-aether/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "relayproof-ia4pymes",
+      "company": "IA4PYMES",
+      "venture": "relay_proof",
+      "sourceUrl": "https://ia4pymes.tech/en",
+      "relativeUrl": "relayproof-ia4pymes/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "scopeharbor-brisema",
+      "company": "Brisema Klimatechnik",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.brisema.de/ablauf",
+      "relativeUrl": "scopeharbor-brisema/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "scopeharbor-clim-express",
+      "company": "Clim Express Bordeaux",
+      "venture": "visual_quote",
+      "sourceUrl": "https://climexpressbordeaux.fr/installation-climatisation/",
+      "relativeUrl": "scopeharbor-clim-express/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "scopeharbor-dokro",
+      "company": "DOKRO Klimatechnik",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.dokroo.shop/pages/angebote",
+      "relativeUrl": "scopeharbor-dokro/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "scopeharbor-etec-air",
+      "company": "E.T.E.C. Air",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.etecair.com/virtual-quote",
+      "relativeUrl": "scopeharbor-etec-air/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "scopeharbor-unicolorado",
+      "company": "UniColorado Heating & Cooling",
+      "venture": "visual_quote",
+      "sourceUrl": "https://unicolorado.com/get-estimate/?mode=photos",
+      "relativeUrl": "scopeharbor-unicolorado/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-16d7d581b7597618",
+      "company": "Vellar-Wallet",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/Vellar-Wallet/vellar-sdk/issues/277",
+      "relativeUrl": "technical-github-16d7d581b7597618/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-3ee27bd51f3ee42c",
+      "company": "headroomlabs-ai",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/headroomlabs-ai/headroom/issues/2649",
+      "relativeUrl": "technical-github-3ee27bd51f3ee42c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-88b42b3ea2e59dac",
+      "company": "github",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/github/gh-aw/issues/57374",
+      "relativeUrl": "technical-github-88b42b3ea2e59dac/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-bf52eb960c5db58a",
+      "company": "simstudioai",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/simstudioai/sim/issues/7294",
+      "relativeUrl": "technical-github-bf52eb960c5db58a/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-de609ce2b5a2b32f",
+      "company": "drt-hub",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/drt-hub/drt/issues/897",
+      "relativeUrl": "technical-github-de609ce2b5a2b32f/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-f2085ffba799f611",
+      "company": "wisecom-oy",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/wisecom-oy/atlas/issues/246",
+      "relativeUrl": "technical-github-f2085ffba799f611/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "visualquote-aire-instalacion",
+      "company": "Aire Acondicionado Instalación Madrid",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.aireacondicionadoinstalacion.com/contacto/",
+      "relativeUrl": "visualquote-aire-instalacion/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "visualquote-climaexacto",
+      "company": "Clima Exacto",
+      "venture": "visual_quote",
+      "sourceUrl": "https://climaexacto.com/",
+      "relativeUrl": "visualquote-climaexacto/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "visualquote-servclimat",
+      "company": "Servclimat",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.servclimat.es/solicitar-presupuesto",
+      "relativeUrl": "visualquote-servclimat/",
+      "status": "illustrative_asset_ready"
+    }
+  ]
+}

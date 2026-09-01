@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "businessName": "Reformas Presupuestos Gratis",
+  "sourceUrl": "https://www.reformaspresupuestosgratis.com/",
+  "finalUrl": "https://www.reformaspresupuestosgratis.com/",
+  "observedAt": "2026-08-31T12:44:04.534Z",
+  "sourceHash": "5723765f5157cb6b520933c2fb576a5250414f0ef32a5da7798b0ffe09bc0616",
+  "score": 85,
+  "verdict": "strong_foundation",
+  "checks": [
+    {
+      "id": "reachable",
+      "label": "Public page reachable",
+      "status": "pass",
+      "detail": "Observed HTTP 200.",
+      "weight": 20
+    },
+    {
+      "id": "https",
+      "label": "HTTPS delivery",
+      "status": "pass",
+      "detail": "Final page uses HTTPS.",
+      "weight": 10
+    },
+    {
+      "id": "viewport",
+      "label": "Mobile viewport",
+      "status": "pass",
+      "detail": "A viewport declaration is present.",
+      "weight": 15
+    },
+    {
+      "id": "title",
+      "label": "Search title",
+      "status": "pass",
+      "detail": "Observed title length: 50.",
+      "weight": 10
+    },
+    {
+      "id": "description",
+      "label": "Search description",
+      "status": "pass",
+      "detail": "Observed description length: 138.",
+      "weight": 10
+    },
+    {
+      "id": "heading",
+      "label": "Single primary heading",
+      "status": "attention",
+      "detail": "Observed H1 count: 5.",
+      "weight": 10
+    },
+    {
+      "id": "contact_route",
+      "label": "Direct contact route",
+      "status": "pass",
+      "detail": "Form: no; phone: yes; WhatsApp: yes; contact link: yes.",
+      "weight": 15
+    },
+    {
+      "id": "local_schema",
+      "label": "Local business schema",
+      "status": "attention",
+      "detail": "No LocalBusiness-style structured data was observed.",
+      "weight": 5
+    },
+    {
+      "id": "response_time",
+      "label": "Observed response time",
+      "status": "pass",
+      "detail": "Single public fetch completed in 182 ms.",
+      "weight": 5
+    }
+  ],
+  "attention": [
+    {
+      "label": "Single primary heading",
+      "detail": "Observed H1 count: 5."
+    },
+    {
+      "label": "Local business schema",
+      "detail": "No LocalBusiness-style structured data was observed."
+    }
+  ],
+  "page": {
+    "title": "REFORMAS. Presupuestos Gratis --- Obras y Reformas",
+    "description": "Reformas en general: Reformas de Viviendas, reformas de baños, reformas de cocinas, locales comerciales. Reformas en Madrid y alrededores.",
+    "h1Count": 5,
+    "contactRoutes": {
+      "form": false,
+      "phone": true,
+      "whatsapp": true,
+      "email": false,
+      "booking": true,
+      "contactPage": true
+    }
+  },
+  "disclaimer": "This diagnostic records bounded public observations. It does not measure traffic, conversion rate, revenue or customer satisfaction."
+}
