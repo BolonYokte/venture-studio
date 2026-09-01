@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T10:03:11.762Z",
+  "generatedAt": "2026-09-01T10:26:43.741Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -34,11 +34,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-0dda2c172512aea0",
+      "company": "Brookline Lock Company",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13082435101",
+      "relativeUrl": "osm-0dda2c172512aea0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1f6c33eea05584d7",
+      "company": "S+H Construction",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/8275232424",
+      "relativeUrl": "osm-1f6c33eea05584d7/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-2397dc4668d08fe2",
       "company": "Guy Rouez",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/1797961797",
       "relativeUrl": "osm-2397dc4668d08fe2/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2afe521e1a074593",
+      "company": "Seattle Plumbing Pros",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/228915473",
+      "relativeUrl": "osm-2afe521e1a074593/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -50,11 +74,59 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-410a7191e8894ea4",
+      "company": "Pioneer Plumbing & Sewer",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/221921424",
+      "relativeUrl": "osm-410a7191e8894ea4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-4c1186e325565065",
+      "company": "Cochran",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2462174093",
+      "relativeUrl": "osm-4c1186e325565065/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-5568436e74caa018",
       "company": "Chaves do Areeiro",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/4023566445",
       "relativeUrl": "osm-5568436e74caa018/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-785f7d6519b0b478",
+      "company": "UTS Locksmith Miami",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5453990515",
+      "relativeUrl": "osm-785f7d6519b0b478/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-80c4f712fd046834",
+      "company": "Wilson Tile",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10877183825",
+      "relativeUrl": "osm-80c4f712fd046834/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-816827c07f4d483f",
+      "company": "Beacon Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5589433779",
+      "relativeUrl": "osm-816827c07f4d483f/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-88dc66aa7d9f8ac3",
+      "company": "O'Neill Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2396741242",
+      "relativeUrl": "osm-88dc66aa7d9f8ac3/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -66,11 +138,51 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-9d5516f019d4f4a5",
+      "company": "Roofing Formula LLC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9157979875",
+      "relativeUrl": "osm-9d5516f019d4f4a5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-ab7571453f2d1503",
+      "company": "Coast Products",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2332530371",
+      "relativeUrl": "osm-ab7571453f2d1503/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-aef3a8fc0641ed7d",
       "company": "De Sleutelkluis",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/332661079",
       "relativeUrl": "osm-aef3a8fc0641ed7d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-b62c5e3b178b4b86",
+      "company": "Raymark Plumbing & Sewer",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1085783044",
+      "relativeUrl": "osm-b62c5e3b178b4b86/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-bfbe98601d5ff9af",
+      "company": "Broadway Locksmith",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/206047317",
+      "relativeUrl": "osm-bfbe98601d5ff9af/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-c700f93c4933da6d",
+      "company": "Craftsman Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2138389786",
+      "relativeUrl": "osm-c700f93c4933da6d/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -90,11 +202,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-d29360159ea5a683",
+      "company": "Baker-Elman Plumbing Co.",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/8143998225",
+      "relativeUrl": "osm-d29360159ea5a683/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-dfcb49f07a3d52ff",
       "company": "Société Santallier",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/2077747672",
       "relativeUrl": "osm-dfcb49f07a3d52ff/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f3e89788acb4f842",
+      "company": "Extreme Handyman Service",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13843931177",
+      "relativeUrl": "osm-f3e89788acb4f842/",
       "status": "illustrative_asset_ready"
     },
     {
