@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T17:57:16.866Z",
+  "generatedAt": "2026-09-03T18:05:59.489Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -138,6 +138,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-0d6d3544627b662a",
+      "company": "Roof Gurus",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12914382522",
+      "relativeUrl": "osm-0d6d3544627b662a/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-0dda2c172512aea0",
       "company": "Brookline Lock Company",
       "venture": "visual_quote",
@@ -146,11 +154,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-0e50aee1f3544baf",
+      "company": "Residential Heating & Air Conditioning",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5563248233",
+      "relativeUrl": "osm-0e50aee1f3544baf/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-0fee7c1ba138f776",
       "company": "Jim's Plumbing Now",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13271859969",
       "relativeUrl": "osm-0fee7c1ba138f776/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-10c9197b925ef67e",
+      "company": "Pro-Tech Painting",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/31844496",
+      "relativeUrl": "osm-10c9197b925ef67e/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -306,6 +330,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-30fcd0ff5412b39a",
+      "company": "A.J. Michaels",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/336351603",
+      "relativeUrl": "osm-30fcd0ff5412b39a/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-3100be76481dd5e1",
       "company": "Virtue Heating & Cooling",
       "venture": "visual_quote",
@@ -327,6 +359,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/12849184105",
       "relativeUrl": "osm-33699d7ee4ebb4ba/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-34fd42083d979391",
+      "company": "Rhino Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13083998766",
+      "relativeUrl": "osm-34fd42083d979391/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -466,6 +506,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-52b683a5a24fc121",
+      "company": "Point Loma Electric, Plumbing, Drains, and Water Heaters",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12301559857",
+      "relativeUrl": "osm-52b683a5a24fc121/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-539117ab751a25d9",
       "company": "Low Rate Locksmith San Francisco",
       "venture": "visual_quote",
@@ -511,6 +559,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13050170186",
       "relativeUrl": "osm-572015914a1338b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-57d9c91560336823",
+      "company": "Reliable Plumbing & Drain Cleaning",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13241670800",
+      "relativeUrl": "osm-57d9c91560336823/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -642,6 +698,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-77aeea34bddbff8b",
+      "company": "Reborn General Construction LLC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/14129851801",
+      "relativeUrl": "osm-77aeea34bddbff8b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-785f7d6519b0b478",
       "company": "UTS Locksmith Miami",
       "venture": "visual_quote",
@@ -762,6 +826,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-9a307ee9df88f788",
+      "company": "Precision General Contracting",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/31801860",
+      "relativeUrl": "osm-9a307ee9df88f788/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-9b8e536732b31603",
       "company": "Ellis Air Conditioning & Heating",
       "venture": "visual_quote",
@@ -783,6 +855,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/9157979875",
       "relativeUrl": "osm-9d5516f019d4f4a5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-9f8967cb1ee08cf6",
+      "company": "Results Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10994412155",
+      "relativeUrl": "osm-9f8967cb1ee08cf6/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -882,6 +962,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-b93e4b502367435d",
+      "company": "Polar Bear Air Conditioning & Heating Inc.",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4124063223",
+      "relativeUrl": "osm-b93e4b502367435d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-b9f7df089378c202",
       "company": "Legacy Home Comfort",
       "venture": "visual_quote",
@@ -903,6 +991,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/206047317",
       "relativeUrl": "osm-bfbe98601d5ff9af/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-c385d95bfbc6f26a",
+      "company": "Metcalf Plumbing Service, LLC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13509604885",
+      "relativeUrl": "osm-c385d95bfbc6f26a/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1018,6 +1114,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e024ddef14b95466",
+      "company": "Carey Hardware - Locksmith Services",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5453746387",
+      "relativeUrl": "osm-e024ddef14b95466/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e97919859b103e95",
       "company": "Alfonso Garlando",
       "venture": "catalog_relay",
@@ -1047,6 +1151,14 @@
       "venture": "catalog_relay",
       "sourceUrl": "https://www.openstreetmap.org/node/5681794822",
       "relativeUrl": "osm-f044808364a79f2b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f07aa0479a264a75",
+      "company": "Public Glass",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/6466845883",
+      "relativeUrl": "osm-f07aa0479a264a75/",
       "status": "illustrative_asset_ready"
     },
     {
