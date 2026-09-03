@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T20:33:53.618Z",
+  "generatedAt": "2026-09-03T17:57:16.866Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -34,11 +34,123 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "catalogrelay-agencia-shopping",
+      "company": "Agencia Google Shopping",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://agencia-google-shopping.com/",
+      "relativeUrl": "catalogrelay-agencia-shopping/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "catalogrelay-clickage",
+      "company": "ClickAge",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://clickage.es/google-shopping",
+      "relativeUrl": "catalogrelay-clickage/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "catalogrelay-seoevolution",
+      "company": "SEO Evolution",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://agenciaseoevolution.com/servicios/google-merchant-ia",
+      "relativeUrl": "catalogrelay-seoevolution/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "feedmantle-bryka",
+      "company": "Bryka",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://bryka.com/shopping-feed/",
+      "relativeUrl": "feedmantle-bryka/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "feedmantle-cybercite",
+      "company": "CyberCité",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.cybercite.fr/nos-expertises/agence-sea-media/shopping",
+      "relativeUrl": "feedmantle-cybercite/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "feedmantle-optimize-goal",
+      "company": "Optimize Goal",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://optimizegoal.com/google-shopping-ads-agency/",
+      "relativeUrl": "feedmantle-optimize-goal/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "feedmantle-saints-sparrows",
+      "company": "Saints and Sparrows",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://saintsandsparrows.com/pages/feeds-automation",
+      "relativeUrl": "feedmantle-saints-sparrows/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-023acea69350eb11",
+      "company": "Plunger Plumber",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/14078998703",
+      "relativeUrl": "osm-023acea69350eb11/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-07b0e6e031524524",
+      "company": "Alcott",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1499960367",
+      "relativeUrl": "osm-07b0e6e031524524/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-07c1a1f4f2dd214b",
+      "company": "Solid Carpentry",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/6082315181",
+      "relativeUrl": "osm-07c1a1f4f2dd214b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-07d1956763206d3c",
+      "company": "At Your Service Plumbing, Heating & Air",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/4067095012",
+      "relativeUrl": "osm-07d1956763206d3c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-097f7da33ae48206",
+      "company": "Sky Electrical Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13969990781",
+      "relativeUrl": "osm-097f7da33ae48206/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-09d01c2861a14ef5",
+      "company": "James Armstrong Plumbing Mesquite",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12946642653",
+      "relativeUrl": "osm-09d01c2861a14ef5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-0dda2c172512aea0",
       "company": "Brookline Lock Company",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13082435101",
       "relativeUrl": "osm-0dda2c172512aea0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-0fee7c1ba138f776",
+      "company": "Jim's Plumbing Now",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13271859969",
+      "relativeUrl": "osm-0fee7c1ba138f776/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -50,6 +162,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-11dbdd03748ece16",
+      "company": "Philadelphia Furniture Workshop",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/804418401",
+      "relativeUrl": "osm-11dbdd03748ece16/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-13b3cb02409b3ca9",
       "company": "EZ Service",
       "venture": "visual_quote",
@@ -58,11 +178,51 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-18ca6976de99eac4",
+      "company": "Moores Glassworks",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/83204099",
+      "relativeUrl": "osm-18ca6976de99eac4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1b589ec59bea55f0",
+      "company": "Irving Roofing Contractors - IrvingRoofingPro",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/469119712",
+      "relativeUrl": "osm-1b589ec59bea55f0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1bf4bf464202d467",
+      "company": "Banana Republic",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1138265896",
+      "relativeUrl": "osm-1bf4bf464202d467/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1d99602fe96f5157",
+      "company": "Florsheim Factory Outlet - Stanmore",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3278531079",
+      "relativeUrl": "osm-1d99602fe96f5157/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-1ddcd931b497b227",
       "company": "Auto Locksmith Philadelphia",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/10312653340",
       "relativeUrl": "osm-1ddcd931b497b227/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1eb3de8c4308b05e",
+      "company": "MW Flooring",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7756557964",
+      "relativeUrl": "osm-1eb3de8c4308b05e/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -90,6 +250,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-23a0ef76ed441b5c",
+      "company": "Mr. Rooter",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9409191260",
+      "relativeUrl": "osm-23a0ef76ed441b5c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-23b2c719a5399fc8",
       "company": "Anytime Plumbing 365, Drain Cleaning & Repair",
       "venture": "visual_quote",
@@ -106,11 +274,59 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-2b1543a5fcd7926c",
+      "company": "SSQ",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10055559285",
+      "relativeUrl": "osm-2b1543a5fcd7926c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2be15e3f83af4407",
+      "company": "CCTV Dubai",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/5066289672",
+      "relativeUrl": "osm-2be15e3f83af4407/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-2c7ae229263c1072",
       "company": "London Pro Abseiling ltd",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/8879868208",
       "relativeUrl": "osm-2c7ae229263c1072/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2dbe9c4e7ce24fb0",
+      "company": "Artisan Flooring of NC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12854873144",
+      "relativeUrl": "osm-2dbe9c4e7ce24fb0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-3100be76481dd5e1",
+      "company": "Virtue Heating & Cooling",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9251214142",
+      "relativeUrl": "osm-3100be76481dd5e1/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-32f733e04433845d",
+      "company": "Charles & Keith",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/6723411275",
+      "relativeUrl": "osm-32f733e04433845d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-33699d7ee4ebb4ba",
+      "company": "Stained Glass Guild",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12849184105",
+      "relativeUrl": "osm-33699d7ee4ebb4ba/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -138,6 +354,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-3b54fa0e1ad26b01",
+      "company": "K&D Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9516208207",
+      "relativeUrl": "osm-3b54fa0e1ad26b01/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-3e45004f412b13e3",
       "company": "Benjamin Franklin Plumbing & Drain Services of Duncanville",
       "venture": "visual_quote",
@@ -146,11 +370,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-3ef4343d45773e36",
+      "company": "Barkley-Jensen Roofing and Restoration",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12880824869",
+      "relativeUrl": "osm-3ef4343d45773e36/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-410a7191e8894ea4",
       "company": "Pioneer Plumbing & Sewer",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/221921424",
       "relativeUrl": "osm-410a7191e8894ea4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-42a961d2e7c3ef47",
+      "company": "Sheen Green",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/460617074",
+      "relativeUrl": "osm-42a961d2e7c3ef47/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-473e1af4505ad593",
+      "company": "Lane Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9780811363",
+      "relativeUrl": "osm-473e1af4505ad593/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -170,6 +418,38 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-4c69797b5dbbc147",
+      "company": "Toughened Glass Systems",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10026443108",
+      "relativeUrl": "osm-4c69797b5dbbc147/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-4ce954bdaa07ce5c",
+      "company": "MTC Heating and Air Conditioning",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13875736075",
+      "relativeUrl": "osm-4ce954bdaa07ce5c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5086f4cb3c54cfed",
+      "company": "Best Denki",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/6583281547",
+      "relativeUrl": "osm-5086f4cb3c54cfed/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-510a6cacb9f71d1f",
+      "company": "Peak Metal Products",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13484966804",
+      "relativeUrl": "osm-510a6cacb9f71d1f/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-512685b4ea755efc",
       "company": "CoolFlo Air Conditioning",
       "venture": "visual_quote",
@@ -186,11 +466,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-539117ab751a25d9",
+      "company": "Low Rate Locksmith San Francisco",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5637095541",
+      "relativeUrl": "osm-539117ab751a25d9/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-544eae2222298d2d",
+      "company": "Nashville Epoxy Flooring Pros",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/8736066754",
+      "relativeUrl": "osm-544eae2222298d2d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-5568436e74caa018",
       "company": "Chaves do Areeiro",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/4023566445",
       "relativeUrl": "osm-5568436e74caa018/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-562d08cf85ae3ff4",
+      "company": "Fumoto Oil Drain Valves",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/2574218795",
+      "relativeUrl": "osm-562d08cf85ae3ff4/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -226,6 +530,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-5d864194021f48e6",
+      "company": "HM Tech Air Conditioning and Heating",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9946547740",
+      "relativeUrl": "osm-5d864194021f48e6/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-5ef20f737d3ff0bc",
+      "company": "Parthenon Plumbing, Heating, & AC Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12606540185",
+      "relativeUrl": "osm-5ef20f737d3ff0bc/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-5f0271cf1a1695a3",
       "company": "Affordable Roofing",
       "venture": "visual_quote",
@@ -242,11 +562,51 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-62fde53b16df0c07",
+      "company": "Specialist Glass Co",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/951534789",
+      "relativeUrl": "osm-62fde53b16df0c07/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-65b36d557a49dc1b",
       "company": "Building Efficiency, Inc.",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/4017234510",
       "relativeUrl": "osm-65b36d557a49dc1b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-668ab4d762cf6b9e",
+      "company": "Environmental Heating & Air of NC, Inc.",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/220818113",
+      "relativeUrl": "osm-668ab4d762cf6b9e/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-66b3cf08539cdabb",
+      "company": "McMullen Carpentry and Joinery",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11920338365",
+      "relativeUrl": "osm-66b3cf08539cdabb/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-699791055ea8b9b4",
+      "company": "Achega 2",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4624340333",
+      "relativeUrl": "osm-699791055ea8b9b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-6c3f27289274cbca",
+      "company": "De Stadsbouwmarkt",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/2019505670",
+      "relativeUrl": "osm-6c3f27289274cbca/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -258,11 +618,59 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-6f2c18b99e3a3e8b",
+      "company": "Martin Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1374009839",
+      "relativeUrl": "osm-6f2c18b99e3a3e8b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-709ea16b11ca0c78",
+      "company": "Gobena & Associates",
+      "venture": "private_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/7176417219",
+      "relativeUrl": "osm-709ea16b11ca0c78/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-74dffa447bb39328",
+      "company": "Plykea",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/10592062343",
+      "relativeUrl": "osm-74dffa447bb39328/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-785f7d6519b0b478",
       "company": "UTS Locksmith Miami",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/5453990515",
       "relativeUrl": "osm-785f7d6519b0b478/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-78eaa3a57f234a01",
+      "company": "BE WE",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3151751065",
+      "relativeUrl": "osm-78eaa3a57f234a01/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-7aa99ab356548bf6",
+      "company": "Top Flooring Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11366487306",
+      "relativeUrl": "osm-7aa99ab356548bf6/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-7cab00e0312bdeae",
+      "company": "On Tops Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13443023921",
+      "relativeUrl": "osm-7cab00e0312bdeae/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -322,6 +730,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-9042ed17691b3d07",
+      "company": "Millcreek Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12541880233",
+      "relativeUrl": "osm-9042ed17691b3d07/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-90a8b0c7ca2750dd",
       "company": "Omega Locksmith",
       "venture": "visual_quote",
@@ -354,11 +770,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-9c8c495904b8cef4",
+      "company": "Simple Floors",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/614091579",
+      "relativeUrl": "osm-9c8c495904b8cef4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-9d5516f019d4f4a5",
       "company": "Roofing Formula LLC",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/9157979875",
       "relativeUrl": "osm-9d5516f019d4f4a5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-a45e306245152c2f",
+      "company": "XA Electrics Ltd",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12248904247",
+      "relativeUrl": "osm-a45e306245152c2f/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -370,11 +802,19 @@
       "status": "illustrative_asset_ready"
     },
     {
-      "id": "osm-ab7571453f2d1503",
-      "company": "Coast Products",
+      "id": "osm-aaea317b4d46a9ef",
+      "company": "Nightglade Ltd",
       "venture": "visual_quote",
-      "sourceUrl": "https://www.openstreetmap.org/node/2332530371",
-      "relativeUrl": "osm-ab7571453f2d1503/",
+      "sourceUrl": "https://www.openstreetmap.org/node/6918134779",
+      "relativeUrl": "osm-aaea317b4d46a9ef/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-acab713aa184a78a",
+      "company": "CMC Electrical & Generator Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13640758779",
+      "relativeUrl": "osm-acab713aa184a78a/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -402,6 +842,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-b0408b0b5053f01c",
+      "company": "UK Smart Build",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/3229808680",
+      "relativeUrl": "osm-b0408b0b5053f01c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-b0fc3e3066aa8f74",
+      "company": "Abstrakt",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1977672339",
+      "relativeUrl": "osm-b0fc3e3066aa8f74/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-b1604ed5c6aaf970",
       "company": "EC Maintenance",
       "venture": "visual_quote",
@@ -418,6 +874,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-b908f279b23477c1",
+      "company": "Integrity Repipe Inc",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7569931248",
+      "relativeUrl": "osm-b908f279b23477c1/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-b9f7df089378c202",
+      "company": "Legacy Home Comfort",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/7141437612",
+      "relativeUrl": "osm-b9f7df089378c202/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-bd199da85a33ee05",
       "company": "Dwello Home Services",
       "venture": "visual_quote",
@@ -431,14 +903,6 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/206047317",
       "relativeUrl": "osm-bfbe98601d5ff9af/",
-      "status": "illustrative_asset_ready"
-    },
-    {
-      "id": "osm-c0cfeb7384dad1a9",
-      "company": "Bridgewater Glass",
-      "venture": "visual_quote",
-      "sourceUrl": "https://www.openstreetmap.org/way/1017428767",
-      "relativeUrl": "osm-c0cfeb7384dad1a9/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -474,6 +938,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-d3d4fa682405105c",
+      "company": "AK Flightcases Manufacturing LLC",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/5351720022",
+      "relativeUrl": "osm-d3d4fa682405105c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-d48b5a67c3801ead",
       "company": "Artisans Carpentry",
       "venture": "visual_quote",
@@ -498,11 +970,43 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-d7f0b03491d56aa1",
+      "company": "Arcopedico",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/7280583962",
+      "relativeUrl": "osm-d7f0b03491d56aa1/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-dad15928db9f7ea4",
       "company": "Anytime Locksmith",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/3101735498",
       "relativeUrl": "osm-dad15928db9f7ea4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-dbc0e3e5830eca53",
+      "company": "Linear Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/425018445",
+      "relativeUrl": "osm-dbc0e3e5830eca53/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-dd055ae45d521aa4",
+      "company": "Your Local Plumbing Company",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/729182023",
+      "relativeUrl": "osm-dd055ae45d521aa4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-de461b56cc1d0252",
+      "company": "Nashville Roofing Company",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12543849016",
+      "relativeUrl": "osm-de461b56cc1d0252/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -514,6 +1018,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e97919859b103e95",
+      "company": "Alfonso Garlando",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/2838407511",
+      "relativeUrl": "osm-e97919859b103e95/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e9a399cccac7e5d5",
       "company": "Economy Drain Cleaning & Plumbing",
       "venture": "visual_quote",
@@ -522,11 +1034,51 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-ed59ac0c887a6c08",
+      "company": "Morgal Plumbing, Sewer & Water Line Repair",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13919671728",
+      "relativeUrl": "osm-ed59ac0c887a6c08/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f044808364a79f2b",
+      "company": "Cellini",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/5681794822",
+      "relativeUrl": "osm-f044808364a79f2b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f0fa555ff84389c1",
+      "company": "Handy Bros. Home Comfort",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/14053911436",
+      "relativeUrl": "osm-f0fa555ff84389c1/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-f3e89788acb4f842",
       "company": "Extreme Handyman Service",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13843931177",
       "relativeUrl": "osm-f3e89788acb4f842/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f5e2635b25375d24",
+      "company": "Benel",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/6507018870",
+      "relativeUrl": "osm-f5e2635b25375d24/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f6302c2c53fa5e50",
+      "company": "Lighthouse Electrical",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/815428021",
+      "relativeUrl": "osm-f6302c2c53fa5e50/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -543,6 +1095,30 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/424505534",
       "relativeUrl": "osm-f9ccc9480bc72672/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-fb409d7770b930fa",
+      "company": "Ataly Graphics",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/way/216628916",
+      "relativeUrl": "osm-fb409d7770b930fa/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-fdc05a719ea745ad",
+      "company": "Degree Above Heating and Air",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13710891300",
+      "relativeUrl": "osm-fdc05a719ea745ad/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "privaterelay-hawkins",
+      "company": "Hawkins",
+      "venture": "private_relay",
+      "sourceUrl": "https://hawkins.es/ia-para-asesorias",
+      "relativeUrl": "privaterelay-hawkins/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -602,11 +1178,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-160fed4c78dd5c9e",
+      "company": "vercel",
+      "venture": "private_relay",
+      "sourceUrl": "https://github.com/vercel/eve/issues/2698",
+      "relativeUrl": "technical-github-160fed4c78dd5c9e/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-16d7d581b7597618",
       "company": "Vellar-Wallet",
       "venture": "relay_proof",
       "sourceUrl": "https://github.com/Vellar-Wallet/vellar-sdk/issues/277",
       "relativeUrl": "technical-github-16d7d581b7597618/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-307b0c2e94999219",
+      "company": "HarperFast",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/HarperFast/harper-pro/issues/327",
+      "relativeUrl": "technical-github-307b0c2e94999219/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-395fc04ed85bad88",
+      "company": "di-framework",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://github.com/di-framework/di-framework/issues/278",
+      "relativeUrl": "technical-github-395fc04ed85bad88/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -618,11 +1218,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-50a87a47d696bcad",
+      "company": "dekaruntime",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/dekaruntime/testsuite/issues/63",
+      "relativeUrl": "technical-github-50a87a47d696bcad/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-6525c26e168349e5",
+      "company": "burin-labs",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://github.com/burin-labs/harn/issues/7777",
+      "relativeUrl": "technical-github-6525c26e168349e5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-88b42b3ea2e59dac",
       "company": "github",
       "venture": "relay_proof",
       "sourceUrl": "https://github.com/github/gh-aw/issues/57374",
       "relativeUrl": "technical-github-88b42b3ea2e59dac/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-ab54d0dc898c0e98",
+      "company": "mlflow",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/mlflow/mlflow/issues/24535",
+      "relativeUrl": "technical-github-ab54d0dc898c0e98/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -634,6 +1258,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-c3a059632186a1f6",
+      "company": "Traitome",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://github.com/Traitome/oxo-flow/issues/267",
+      "relativeUrl": "technical-github-c3a059632186a1f6/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-de609ce2b5a2b32f",
       "company": "drt-hub",
       "venture": "relay_proof",
@@ -642,11 +1274,51 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-ec601b771390f409",
+      "company": "vm0-ai",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/vm0-ai/vm0/issues/30995",
+      "relativeUrl": "technical-github-ec601b771390f409/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-f2085ffba799f611",
       "company": "wisecom-oy",
       "venture": "relay_proof",
       "sourceUrl": "https://github.com/wisecom-oy/atlas/issues/246",
       "relativeUrl": "technical-github-f2085ffba799f611/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "veillatch-integrated-ais",
+      "company": "Integrated AIS",
+      "venture": "private_relay",
+      "sourceUrl": "https://integratedais.com/ai-for-professional-services",
+      "relativeUrl": "veillatch-integrated-ais/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "veillatch-iussec",
+      "company": "IusSec",
+      "venture": "private_relay",
+      "sourceUrl": "https://iussec.com/",
+      "relativeUrl": "veillatch-iussec/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "veillatch-kanzlei-ki",
+      "company": "kanzlei-ki.at",
+      "venture": "private_relay",
+      "sourceUrl": "https://kanzlei-ki.at/leistungen/dokumentenautomatisierung/",
+      "relativeUrl": "veillatch-kanzlei-ki/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "veillatch-optimusflow",
+      "company": "OptimusFlow Consulting",
+      "venture": "private_relay",
+      "sourceUrl": "https://optimusflow.consulting/fuer-kanzleien",
+      "relativeUrl": "veillatch-optimusflow/",
       "status": "illustrative_asset_ready"
     },
     {

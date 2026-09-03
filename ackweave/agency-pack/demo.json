@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "packId": "awp_04b162d8c96bacda",
+  "generatedAt": "2026-09-02T15:08:27.250Z",
+  "status": "ready_for_agency_review",
+  "whiteLabel": true,
+  "source": {
+    "agency": "Northstar Automation (fictional)",
+    "clientReference": "Illustrative property services client",
+    "inputHash": "04b162d8c96bacdad0a9ec1e9fbdb40b5f4f9aa542f8890f287fa28a79ad3b30"
+  },
+  "scope": {
+    "workflow": {
+      "name": "Qualified enquiry handoff",
+      "trigger": "The agency's intake workflow marks an enquiry as qualified.",
+      "destination": "A client-owned staging webhook accepts the normalized enquiry.",
+      "expectedOutcome": "The client system creates one review task and returns a correlation identifier.",
+      "expectedVolume": "Up to 500 events per month after pilot acceptance"
+    },
+    "authorisedEnvironments": [
+      "agency fixture",
+      "client staging after written authorization"
+    ],
+    "clientContact": "agency_only",
+    "dataPolicy": "synthetic_or_authorised",
+    "exclusions": [
+      "No production deployment during the fixed sprint.",
+      "No direct communication with the agency's client.",
+      "No CRM redesign or additional destination adapters."
+    ]
+  },
+  "implementation": {
+    "stages": [
+      {
+        "number": 1,
+        "name": "Contract",
+        "output": "Freeze the event schema, destination response and success criteria."
+      },
+      {
+        "number": 2,
+        "name": "Adapter",
+        "output": "Implement one destination adapter with bounded timeouts and no redirect following."
+      },
+      {
+        "number": 3,
+        "name": "Replay",
+        "output": "Apply stable idempotency, retry policy and terminal failure handling."
+      },
+      {
+        "number": 4,
+        "name": "Evidence",
+        "output": "Generate metadata-only attempt records and a signed delivery receipt."
+      },
+      {
+        "number": 5,
+        "name": "Handoff",
+        "output": "Deliver tests, operator runbook and rollback boundary to the agency."
+      }
+    ],
+    "eventSchema": [
+      {
+        "field": "event_id",
+        "required": true,
+        "rule": "Stable unique identifier reused for every retry."
+      },
+      {
+        "field": "event_type",
+        "required": true,
+        "rule": "Versioned event name agreed before implementation."
+      },
+      {
+        "field": "occurred_at",
+        "required": true,
+        "rule": "UTC ISO-8601 timestamp from the originating system."
+      },
+      {
+        "field": "payload",
+        "required": true,
+        "rule": "Only fields required by the destination contract."
+      },
+      {
+        "field": "correlation_id",
+        "required": true,
+        "rule": "Shared identifier across agency, workflow and delivery receipt."
+      }
+    ],
+    "acceptanceTests": [
+      {
+        "id": "schema",
+        "name": "Input contract",
+        "passCondition": "Valid events are accepted and missing required fields are rejected before delivery."
+      },
+      {
+        "id": "idempotency",
+        "name": "Replay safety",
+        "passCondition": "Two submissions with one event_id create no more than one downstream side effect."
+      },
+      {
+        "id": "retry",
+        "name": "Bounded retry",
+        "passCondition": "A synthetic temporary failure produces a visible retry and a terminal disposition."
+      },
+      {
+        "id": "receipt",
+        "name": "Delivery receipt",
+        "passCondition": "Every attempt records timestamp, response fingerprint, correlation and final state without storing secrets."
+      },
+      {
+        "id": "handoff",
+        "name": "Agency handoff",
+        "passCondition": "The agency can operate the workflow using the runbook without direct AckWeave contact with its client."
+      }
+    ]
+  },
+  "responsibilities": {
+    "agency": [
+      "Own the client relationship and all client communication.",
+      "Confirm authorization for every environment, destination and test fixture.",
+      "Provide the agreed event contract and accept the final handoff."
+    ],
+    "ackweave": [
+      "Implement one bounded delivery path and its reliability controls.",
+      "Test only synthetic or explicitly authorized inputs and targets.",
+      "Return the implementation, evidence records and operator runbook to the agency."
+    ]
+  },
+  "commercial": {
+    "name": "Delivery Reliability Sprint",
+    "amount": 750,
+    "currency": "EUR",
+    "paymentUrl": "https://buy.stripe.com/bJe28taX4c6j52s8GeaVa04",
+    "includes": "One workflow, one destination adapter, replay protection, acceptance tests and handoff evidence.",
+    "expansionBoundary": "Additional workflows, destinations, production operation and support are separately scoped after acceptance."
+  },
+  "limitations": [
+    "This pack is a delivery specification and synthetic demonstration, not proof that the named workflow has been implemented.",
+    "No client endpoint, credential or production system is accessed until the agency supplies explicit authorization.",
+    "White-label delivery does not transfer ownership of AckWeave's reusable engine; the agency receives the agreed workflow implementation and handoff materials."
+  ]
+}

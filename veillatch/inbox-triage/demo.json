@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "batchId": "vil_8ef92adee48aa78b",
+  "generatedAt": "2026-09-02T15:14:56.870Z",
+  "status": "review_required",
+  "mailbox": "projects@example.invalid",
+  "summary": {
+    "messages": 4,
+    "replyDrafts": 3,
+    "suppressions": 1,
+    "categories": {
+      "urgent_incident": 1,
+      "payment_or_invoice": 1,
+      "sales_opportunity": 1,
+      "opt_out": 1
+    },
+    "automatedExternalActions": 0
+  },
+  "queue": [
+    {
+      "id": "msg-001",
+      "receivedAt": "2026-09-02T08:10:00.000Z",
+      "sourceHash": "e51d319860a291d33f3547902aa3d57653da0821160e4e21005bd9a7cfad8818",
+      "safeSubject": "Urgent: launch form is blocked",
+      "safeExcerpt": "[CUSTOM_1] cannot submit the launch form. Please contact [EMAIL_1]. This is fictional data.",
+      "privacy": {
+        "replacements": 2,
+        "categories": {
+          "EMAIL": 1,
+          "CUSTOM": 1
+        },
+        "rawBodyRetained": false
+      },
+      "classification": {
+        "category": "urgent_incident",
+        "priority": 100,
+        "replyRequired": true,
+        "rationale": "Matched the bounded urgent_incident rule.",
+        "source": "deterministic_rules",
+        "humanReviewRequired": true
+      },
+      "suppression": {
+        "required": false
+      },
+      "draft": "Thanks for flagging this. We have placed it at the top of the review queue. A team member will confirm the current status and next step."
+    },
+    {
+      "id": "msg-004",
+      "receivedAt": "2026-09-02T09:20:00.000Z",
+      "sourceHash": "fcf7069b5dd90da545618a58b5692ea98dda4b8f940166357ab2f574a20baa50",
+      "safeSubject": "Invoice 104 needs review",
+      "safeExcerpt": "The payment total differs from the approved invoice. Please check before Friday.",
+      "privacy": {
+        "replacements": 0,
+        "categories": {},
+        "rawBodyRetained": false
+      },
+      "classification": {
+        "category": "payment_or_invoice",
+        "priority": 80,
+        "replyRequired": true,
+        "rationale": "Matched the bounded payment_or_invoice rule.",
+        "source": "deterministic_rules",
+        "humanReviewRequired": true
+      },
+      "suppression": {
+        "required": false
+      },
+      "draft": "Thanks for the message. We are reviewing the payment or invoice details and will reply after checking the relevant record."
+    },
+    {
+      "id": "msg-002",
+      "receivedAt": "2026-09-02T08:30:00.000Z",
+      "sourceHash": "9bd06b69cde2a07cfb968f384abbd59f2c1a4d2e20500fcd8d42591d12481d0f",
+      "safeSubject": "Pricing for a reporting workflow",
+      "safeExcerpt": "Could you send a quote for automating our weekly client report? The example company is [CUSTOM_1].",
+      "privacy": {
+        "replacements": 1,
+        "categories": {
+          "CUSTOM": 1
+        },
+        "rawBodyRetained": false
+      },
+      "classification": {
+        "category": "sales_opportunity",
+        "priority": 70,
+        "replyRequired": true,
+        "rationale": "Matched the bounded sales_opportunity rule.",
+        "source": "deterministic_rules",
+        "humanReviewRequired": true
+      },
+      "suppression": {
+        "required": false
+      },
+      "draft": "Thanks for getting in touch. We are reviewing the scope and will reply with the most relevant next step rather than sending a generic proposal."
+    },
+    {
+      "id": "msg-003",
+      "receivedAt": "2026-09-02T09:00:00.000Z",
+      "sourceHash": "da09a9123b4f01c9aab3f32b39e5fa1656f24fabf65e9ceb03e4b8b8b577618b",
+      "safeSubject": "Remove this address",
+      "safeExcerpt": "Please unsubscribe this fictional address and stop emailing.",
+      "privacy": {
+        "replacements": 0,
+        "categories": {},
+        "rawBodyRetained": false
+      },
+      "classification": {
+        "category": "opt_out",
+        "priority": 10,
+        "replyRequired": false,
+        "rationale": "Matched the bounded opt_out rule.",
+        "source": "deterministic_rules",
+        "humanReviewRequired": true
+      },
+      "suppression": {
+        "required": true,
+        "reason": "Explicit opt-out language requires suppression and no draft reply."
+      },
+      "draft": null
+    }
+  ],
+  "commercial": {
+    "name": "Private AI Workflow Setup",
+    "specialization": "Private Inbox Triage",
+    "amount": 690,
+    "currency": "EUR",
+    "paymentUrl": "https://buy.stripe.com/eVq7sNd5cc6j2Uk4pYaVa06",
+    "includes": "One shared inbox export, a local priority and draft queue, suppression detection, operating rules and handoff."
+  },
+  "limitations": [
+    "This pilot processes an authorized export; it does not connect to or send from a live mailbox.",
+    "Every category and draft requires human review before any external action.",
+    "Rule and local-model classifications can be wrong; urgency and commercial intent are not treated as facts.",
+    "The report stores redacted excerpts and hashes, not the original message bodies."
+  ]
+}
