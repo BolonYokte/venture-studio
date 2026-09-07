@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T11:02:37.625Z",
+  "generatedAt": "2026-09-07T12:02:32.921Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -162,6 +162,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-0ab8ee02cf2f8bd8",
+      "company": "IKEA",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/way/115040554",
+      "relativeUrl": "osm-0ab8ee02cf2f8bd8/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-0cab5ca189a0d652",
       "company": "Salis Roofing",
       "venture": "visual_quote",
@@ -290,6 +298,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-1c8cc6732656b6f8",
+      "company": "The Evans International Law Firms, LLC",
+      "venture": "private_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4647424028",
+      "relativeUrl": "osm-1c8cc6732656b6f8/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-1d99602fe96f5157",
       "company": "Florsheim Factory Outlet - Stanmore",
       "venture": "catalog_relay",
@@ -303,6 +319,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/10312653340",
       "relativeUrl": "osm-1ddcd931b497b227/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1e4e766d21044a30",
+      "company": "Swanson Reed",
+      "venture": "private_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/13022515948",
+      "relativeUrl": "osm-1e4e766d21044a30/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -386,6 +410,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-2c3d309adb086fcb",
+      "company": "Youngbloods Hardwood Flooring",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9757001943",
+      "relativeUrl": "osm-2c3d309adb086fcb/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-2c7ae229263c1072",
       "company": "London Pro Abseiling ltd",
       "venture": "visual_quote",
@@ -399,6 +431,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/12854873144",
       "relativeUrl": "osm-2dbe9c4e7ce24fb0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-2e599ec9d5c594e3",
+      "company": "VKB Kitchen & Bath",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/6610524278",
+      "relativeUrl": "osm-2e599ec9d5c594e3/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -762,6 +802,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-5fc14ea61907a760",
+      "company": "Essance",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4817458108",
+      "relativeUrl": "osm-5fc14ea61907a760/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-628986e972d79c86",
       "company": "All Flooring Install",
       "venture": "visual_quote",
@@ -994,6 +1042,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-928de1635298586e",
+      "company": "James Avery Jewelry",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4352329459",
+      "relativeUrl": "osm-928de1635298586e/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-986746d476a54f58",
       "company": "Elmbridge Heating & Plumbing",
       "venture": "visual_quote",
@@ -1047,6 +1103,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/10994412155",
       "relativeUrl": "osm-9f8967cb1ee08cf6/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-a34a2f02cb6df5c4",
+      "company": "Flood Clothing",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4086103115",
+      "relativeUrl": "osm-a34a2f02cb6df5c4/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1202,6 +1266,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-c5f0dbb53b4afab4",
+      "company": "W. Atelier",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/7616958668",
+      "relativeUrl": "osm-c5f0dbb53b4afab4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-c700f93c4933da6d",
       "company": "Craftsman Plumbing",
       "venture": "visual_quote",
@@ -1290,6 +1362,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-d77aa7dc950d8676",
+      "company": "ZED Electric",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12989113033",
+      "relativeUrl": "osm-d77aa7dc950d8676/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-d7f0b03491d56aa1",
       "company": "Arcopedico",
       "venture": "catalog_relay",
@@ -1354,6 +1434,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e157acd6f65250b4",
+      "company": "WaterWork Plumbing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11043186895",
+      "relativeUrl": "osm-e157acd6f65250b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e170bb8d775fccae",
       "company": "Cosmetic World",
       "venture": "catalog_relay",
@@ -1386,6 +1474,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e5f2327c20f2bad8",
+      "company": "Wilson and Sons Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9372766033",
+      "relativeUrl": "osm-e5f2327c20f2bad8/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e97919859b103e95",
       "company": "Alfonso Garlando",
       "venture": "catalog_relay",
@@ -1415,6 +1511,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13919671728",
       "relativeUrl": "osm-ed59ac0c887a6c08/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-ede5e8450301ba7d",
+      "company": "Stewart Law Offices",
+      "venture": "private_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/11283001213",
+      "relativeUrl": "osm-ede5e8450301ba7d/",
       "status": "illustrative_asset_ready"
     },
     {
