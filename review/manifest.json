@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T12:02:32.921Z",
+  "generatedAt": "2026-09-07T13:02:05.403Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -410,6 +410,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-2c16281306f68b27",
+      "company": "Madewell",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/14040779621",
+      "relativeUrl": "osm-2c16281306f68b27/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-2c3d309adb086fcb",
       "company": "Youngbloods Hardwood Flooring",
       "venture": "visual_quote",
@@ -554,6 +562,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-3fcaf852be9f2c3e",
+      "company": "Sexy Skinz",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/11117600409",
+      "relativeUrl": "osm-3fcaf852be9f2c3e/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-410a7191e8894ea4",
       "company": "Pioneer Plumbing & Sewer",
       "venture": "visual_quote",
@@ -634,6 +650,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-4d2ccc9cf1905a2c",
+      "company": "Steve Madden",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4003584889",
+      "relativeUrl": "osm-4d2ccc9cf1905a2c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-4dfb4eada747380c",
       "company": "Harman Tapijt & Vinyl",
       "venture": "catalog_relay",
@@ -671,6 +695,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13748044498",
       "relativeUrl": "osm-512685b4ea755efc/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-51356afe74afc25f",
+      "company": "Wildwood",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3947003089",
+      "relativeUrl": "osm-51356afe74afc25f/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -863,6 +895,14 @@
       "venture": "catalog_relay",
       "sourceUrl": "https://www.openstreetmap.org/node/4624340333",
       "relativeUrl": "osm-699791055ea8b9b4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-6b88221509f8f689",
+      "company": "Walmart",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/way/99444979",
+      "relativeUrl": "osm-6b88221509f8f689/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1122,6 +1162,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-a46c0008b6f7653d",
+      "company": "Victoria's Secret",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4000106133",
+      "relativeUrl": "osm-a46c0008b6f7653d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-a757afbc405a5634",
       "company": "Ameen General Contractor Inc",
       "venture": "visual_quote",
@@ -1199,6 +1247,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/7418270231",
       "relativeUrl": "osm-b1604ed5c6aaf970/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-b215b500d17480a8",
+      "company": "willows",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3890831144",
+      "relativeUrl": "osm-b215b500d17480a8/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1551,6 +1607,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13843931177",
       "relativeUrl": "osm-f3e89788acb4f842/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f4ca67db2749e7e8",
+      "company": "SPoT Skate Shop at Skatepark of Tampa",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3406721312",
+      "relativeUrl": "osm-f4ca67db2749e7e8/",
       "status": "illustrative_asset_ready"
     },
     {
