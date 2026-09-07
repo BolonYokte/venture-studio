@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T18:05:59.489Z",
+  "generatedAt": "2026-09-07T08:51:10.061Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -98,6 +98,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-07614a755b654cea",
+      "company": "Bridge City Tool Works",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3439478496",
+      "relativeUrl": "osm-07614a755b654cea/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-07b0e6e031524524",
       "company": "Alcott",
       "venture": "catalog_relay",
@@ -135,6 +143,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/12946642653",
       "relativeUrl": "osm-09d01c2861a14ef5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-0cab5ca189a0d652",
+      "company": "Salis Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13416461490",
+      "relativeUrl": "osm-0cab5ca189a0d652/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -199,6 +215,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/10208851397",
       "relativeUrl": "osm-13b3cb02409b3ca9/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-16dcd9e65e76aa53",
+      "company": "San Diego County Roofing & Solar",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11400949745",
+      "relativeUrl": "osm-16dcd9e65e76aa53/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -402,6 +426,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-3b8ec3225607a2a3",
+      "company": "Sawyer Glass",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/way/1134831149",
+      "relativeUrl": "osm-3b8ec3225607a2a3/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-3d4bf01dc9ccd640",
+      "company": "Roof One",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13794947741",
+      "relativeUrl": "osm-3d4bf01dc9ccd640/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-3e45004f412b13e3",
       "company": "Benjamin Franklin Plumbing & Drain Services of Duncanville",
       "venture": "visual_quote",
@@ -450,6 +490,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-494615d9a9078d99",
+      "company": "Goldspell",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/575244997",
+      "relativeUrl": "osm-494615d9a9078d99/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-4c1186e325565065",
       "company": "Cochran",
       "venture": "visual_quote",
@@ -471,6 +519,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13875736075",
       "relativeUrl": "osm-4ce954bdaa07ce5c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-4dfb4eada747380c",
+      "company": "Harman Tapijt & Vinyl",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/332994743",
+      "relativeUrl": "osm-4dfb4eada747380c/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1098,6 +1154,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-dddde21965c8f0c7",
+      "company": "Dixie Uniforms Ltd",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/700645450",
+      "relativeUrl": "osm-dddde21965c8f0c7/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-de461b56cc1d0252",
       "company": "Nashville Roofing Company",
       "venture": "visual_quote",
@@ -1122,6 +1186,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e170bb8d775fccae",
+      "company": "Cosmetic World",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1128866155",
+      "relativeUrl": "osm-e170bb8d775fccae/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-e526fd36ee630fcb",
+      "company": "Best Buy",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/way/291219935",
+      "relativeUrl": "osm-e526fd36ee630fcb/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e97919859b103e95",
       "company": "Alfonso Garlando",
       "venture": "catalog_relay",
@@ -1135,6 +1215,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/11508427942",
       "relativeUrl": "osm-e9a399cccac7e5d5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-ea89acc0b6d24cb0",
+      "company": "Roof Repair Nashville",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12582276641",
+      "relativeUrl": "osm-ea89acc0b6d24cb0/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1175,6 +1263,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13843931177",
       "relativeUrl": "osm-f3e89788acb4f842/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f5c4640b7e41e62c",
+      "company": "The Body Shop",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3981230966",
+      "relativeUrl": "osm-f5c4640b7e41e62c/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1290,6 +1386,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-0ad894c9025208da",
+      "company": "stellarBank",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/stellarBank/StellarBank/issues/39",
+      "relativeUrl": "technical-github-0ad894c9025208da/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-160fed4c78dd5c9e",
       "company": "vercel",
       "venture": "private_relay",
@@ -1330,6 +1434,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-3f45b6f7d1e9bd50",
+      "company": "pistisAI",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/pistisAI/pistisai-app/issues/264",
+      "relativeUrl": "technical-github-3f45b6f7d1e9bd50/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-50a87a47d696bcad",
       "company": "dekaruntime",
       "venture": "relay_proof",
@@ -1338,19 +1450,27 @@
       "status": "illustrative_asset_ready"
     },
     {
-      "id": "technical-github-6525c26e168349e5",
-      "company": "burin-labs",
-      "venture": "catalog_relay",
-      "sourceUrl": "https://github.com/burin-labs/harn/issues/7777",
-      "relativeUrl": "technical-github-6525c26e168349e5/",
+      "id": "technical-github-801dddde99ee718c",
+      "company": "PrestaShop",
+      "venture": "private_relay",
+      "sourceUrl": "https://github.com/PrestaShop/PrestaShop/issues/24442",
+      "relativeUrl": "technical-github-801dddde99ee718c/",
       "status": "illustrative_asset_ready"
     },
     {
-      "id": "technical-github-88b42b3ea2e59dac",
-      "company": "github",
+      "id": "technical-github-a2a640d6a9f11ca4",
+      "company": "mergewatch",
       "venture": "relay_proof",
-      "sourceUrl": "https://github.com/github/gh-aw/issues/57374",
-      "relativeUrl": "technical-github-88b42b3ea2e59dac/",
+      "sourceUrl": "https://github.com/mergewatch/mergewatch.ai/issues/563",
+      "relativeUrl": "technical-github-a2a640d6a9f11ca4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-a6dd524a47bc3510",
+      "company": "hyodotdev",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/hyodotdev/openiap/issues/241",
+      "relativeUrl": "technical-github-a6dd524a47bc3510/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1362,6 +1482,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-bb79d33e060e0fd3",
+      "company": "mctlhq",
+      "venture": "private_relay",
+      "sourceUrl": "https://github.com/mctlhq/mctl-telegram/issues/483",
+      "relativeUrl": "technical-github-bb79d33e060e0fd3/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-bf52eb960c5db58a",
       "company": "simstudioai",
       "venture": "relay_proof",
@@ -1370,19 +1498,19 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "technical-github-c0f87d25d0a8397b",
+      "company": "openclaw",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/openclaw/openclaw/issues/137492",
+      "relativeUrl": "technical-github-c0f87d25d0a8397b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "technical-github-c3a059632186a1f6",
       "company": "Traitome",
       "venture": "catalog_relay",
       "sourceUrl": "https://github.com/Traitome/oxo-flow/issues/267",
       "relativeUrl": "technical-github-c3a059632186a1f6/",
-      "status": "illustrative_asset_ready"
-    },
-    {
-      "id": "technical-github-de609ce2b5a2b32f",
-      "company": "drt-hub",
-      "venture": "relay_proof",
-      "sourceUrl": "https://github.com/drt-hub/drt/issues/897",
-      "relativeUrl": "technical-github-de609ce2b5a2b32f/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1399,6 +1527,14 @@
       "venture": "relay_proof",
       "sourceUrl": "https://github.com/wisecom-oy/atlas/issues/246",
       "relativeUrl": "technical-github-f2085ffba799f611/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-fb5b76ff88e495bf",
+      "company": "camunda",
+      "venture": "relay_proof",
+      "sourceUrl": "https://github.com/camunda/orchestration-cluster-api-js/issues/489",
+      "relativeUrl": "technical-github-fb5b76ff88e495bf/",
       "status": "illustrative_asset_ready"
     },
     {
