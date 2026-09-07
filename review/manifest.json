@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T08:51:10.061Z",
+  "generatedAt": "2026-09-07T10:02:43.294Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -98,11 +98,27 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-073c8c2e80ec31f1",
+      "company": "Sunset Cliffs Plumbing, Water Heater Repair & Drain Cleaning",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12985368243",
+      "relativeUrl": "osm-073c8c2e80ec31f1/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-07614a755b654cea",
       "company": "Bridge City Tool Works",
       "venture": "catalog_relay",
       "sourceUrl": "https://www.openstreetmap.org/node/3439478496",
       "relativeUrl": "osm-07614a755b654cea/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-0761633a592679a2",
+      "company": "MediaMarkt",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1738396246",
+      "relativeUrl": "osm-0761633a592679a2/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -226,11 +242,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-1859d5b59f884e91",
+      "company": "The Good Guys",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3865940131",
+      "relativeUrl": "osm-1859d5b59f884e91/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-18ca6976de99eac4",
       "company": "Moores Glassworks",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/83204099",
       "relativeUrl": "osm-18ca6976de99eac4/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1a58ed6b45af7184",
+      "company": "Fusaro",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/2983263501",
+      "relativeUrl": "osm-1a58ed6b45af7184/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-1aa229343cd479a8",
+      "company": "Summers Quality Service",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13448045446",
+      "relativeUrl": "osm-1aa229343cd479a8/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -279,6 +319,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/8275232424",
       "relativeUrl": "osm-1f6c33eea05584d7/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-205ae56c5b0005a8",
+      "company": "Wicked Weasel",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/2901475478",
+      "relativeUrl": "osm-205ae56c5b0005a8/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -466,6 +514,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-4246731e3da5175d",
+      "company": "Limited Edt",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/7263765515",
+      "relativeUrl": "osm-4246731e3da5175d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-42a961d2e7c3ef47",
       "company": "Sheen Green",
       "venture": "visual_quote",
@@ -623,6 +679,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/13241670800",
       "relativeUrl": "osm-57d9c91560336823/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-58a614ad1008bab7",
+      "company": "La Belle Couture",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3759784395",
+      "relativeUrl": "osm-58a614ad1008bab7/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1194,6 +1258,22 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-e24f663b5faa4fdf",
+      "company": "Straight Shooter Heating & Cooling",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11355272367",
+      "relativeUrl": "osm-e24f663b5faa4fdf/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-e26f12f0a42319fa",
+      "company": "Streamline Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12919096670",
+      "relativeUrl": "osm-e26f12f0a42319fa/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-e526fd36ee630fcb",
       "company": "Best Buy",
       "venture": "catalog_relay",
@@ -1287,6 +1367,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/815428021",
       "relativeUrl": "osm-f6302c2c53fa5e50/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f6847658bcbe3fe7",
+      "company": "SPM Logistics",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12785286162",
+      "relativeUrl": "osm-f6847658bcbe3fe7/",
       "status": "illustrative_asset_ready"
     },
     {
