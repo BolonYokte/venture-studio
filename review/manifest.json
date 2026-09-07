@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T10:02:43.294Z",
+  "generatedAt": "2026-09-07T11:02:37.625Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -434,6 +434,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-34c66343c7c729c0",
+      "company": "Triumph Roofing and Construction",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5063932775",
+      "relativeUrl": "osm-34c66343c7c729c0/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-34fd42083d979391",
       "company": "Rhino Roofing",
       "venture": "visual_quote",
@@ -530,6 +538,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-436dae662045516b",
+      "company": "الرميزان",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/5315949710",
+      "relativeUrl": "osm-436dae662045516b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-473e1af4505ad593",
       "company": "Lane Plumbing",
       "venture": "visual_quote",
@@ -583,6 +599,14 @@
       "venture": "catalog_relay",
       "sourceUrl": "https://www.openstreetmap.org/node/332994743",
       "relativeUrl": "osm-4dfb4eada747380c/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-4f1e2109abcb4a1d",
+      "company": "Parisilk Electronics & Computers Pte Ltd",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/3732445441",
+      "relativeUrl": "osm-4f1e2109abcb4a1d/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -722,6 +746,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-5ef38bea910a7c37",
+      "company": "Verday Smart Solutions",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12676209970",
+      "relativeUrl": "osm-5ef38bea910a7c37/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-5f0271cf1a1695a3",
       "company": "Affordable Roofing",
       "venture": "visual_quote",
@@ -751,6 +783,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/4017234510",
       "relativeUrl": "osm-65b36d557a49dc1b/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-661a9831cc3fd877",
+      "company": "Salsa Jeans",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4548010364",
+      "relativeUrl": "osm-661a9831cc3fd877/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -807,6 +847,14 @@
       "venture": "private_relay",
       "sourceUrl": "https://www.openstreetmap.org/node/7176417219",
       "relativeUrl": "osm-709ea16b11ca0c78/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-7175c09d30921954",
+      "company": "Montale Paris",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/1726715720",
+      "relativeUrl": "osm-7175c09d30921954/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -871,6 +919,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/5589433779",
       "relativeUrl": "osm-816827c07f4d483f/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-824a6ee553cf1506",
+      "company": "D' Accord Shirts & Guayaberas",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/4467486915",
+      "relativeUrl": "osm-824a6ee553cf1506/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -970,6 +1026,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-9cffb88ee5d5c186",
+      "company": "Tile Roofing San Diego",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12718033364",
+      "relativeUrl": "osm-9cffb88ee5d5c186/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-9d5516f019d4f4a5",
       "company": "Roofing Formula LLC",
       "venture": "visual_quote",
@@ -999,6 +1063,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/9774290533",
       "relativeUrl": "osm-a757afbc405a5634/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-a894147f3513818a",
+      "company": "V.C. Veterans Contracting LLC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/12604029577",
+      "relativeUrl": "osm-a894147f3513818a/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1122,11 +1194,35 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-c43974e3cecd46d5",
+      "company": "Trusted Roofing",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/11416950017",
+      "relativeUrl": "osm-c43974e3cecd46d5/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-c700f93c4933da6d",
       "company": "Craftsman Plumbing",
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/2138389786",
       "relativeUrl": "osm-c700f93c4933da6d/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-c9775246424d5062",
+      "company": "OHMM Inspirational Outdoor Furniture",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/5309982195",
+      "relativeUrl": "osm-c9775246424d5062/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-ca915ee84a63c01a",
+      "company": "Versatile Refrigeration & Air LLC",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/9807883134",
+      "relativeUrl": "osm-ca915ee84a63c01a/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1167,6 +1263,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/way/261122159",
       "relativeUrl": "osm-d48b5a67c3801ead/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-d4f0c1c1f9e8eab9",
+      "company": "Textbook Painting",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/5432023382",
+      "relativeUrl": "osm-d4f0c1c1f9e8eab9/",
       "status": "illustrative_asset_ready"
     },
     {
@@ -1375,6 +1479,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/12785286162",
       "relativeUrl": "osm-f6847658bcbe3fe7/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-f86ab14d876e966b",
+      "company": "The Shingle Master",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/13280119123",
+      "relativeUrl": "osm-f86ab14d876e966b/",
       "status": "illustrative_asset_ready"
     },
     {
