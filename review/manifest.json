@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:01:46.420Z",
+  "generatedAt": "2026-09-07T21:01:59.511Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -1322,6 +1322,14 @@
       "status": "illustrative_asset_ready"
     },
     {
+      "id": "osm-c475455e6d501253",
+      "company": "Golden Spike Roofing Inc",
+      "venture": "visual_quote",
+      "sourceUrl": "https://www.openstreetmap.org/node/2762988750",
+      "relativeUrl": "osm-c475455e6d501253/",
+      "status": "illustrative_asset_ready"
+    },
+    {
       "id": "osm-c5f0dbb53b4afab4",
       "company": "W. Atelier",
       "venture": "catalog_relay",
@@ -1519,6 +1527,14 @@
       "venture": "visual_quote",
       "sourceUrl": "https://www.openstreetmap.org/node/12919096670",
       "relativeUrl": "osm-e26f12f0a42319fa/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "osm-e27fb7e0d25ee29f",
+      "company": "Outdoor Divas",
+      "venture": "catalog_relay",
+      "sourceUrl": "https://www.openstreetmap.org/node/434139542",
+      "relativeUrl": "osm-e27fb7e0d25ee29f/",
       "status": "illustrative_asset_ready"
     },
     {
