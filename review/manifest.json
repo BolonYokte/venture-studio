@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T15:01:24.657Z",
+  "generatedAt": "2026-09-07T17:01:46.420Z",
   "assets": [
     {
       "id": "ackweave-infinode",
@@ -1759,6 +1759,14 @@
       "venture": "relay_proof",
       "sourceUrl": "https://github.com/stellarBank/StellarBank/issues/39",
       "relativeUrl": "technical-github-0ad894c9025208da/",
+      "status": "illustrative_asset_ready"
+    },
+    {
+      "id": "technical-github-0db6608d0170b9e9",
+      "company": "traverse-framework",
+      "venture": "private_relay",
+      "sourceUrl": "https://github.com/traverse-framework/traverse/issues/1258",
+      "relativeUrl": "technical-github-0db6608d0170b9e9/",
       "status": "illustrative_asset_ready"
     },
     {
